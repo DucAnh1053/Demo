@@ -1,3 +1,3 @@
 # Demo
 week03_assignment11_student04_LuongDucAnh
-![Python_programming_language-Logo wine_](https://user-images.githubusercontent.com/96051070/183876324-a15ec955-6ca1-42d1-ab6e-e6fd29927ffb.png)
+![giphy](https://user-images.githubusercontent.com/96051070/184502021-c1319f5a-14ff-4f59-9554-e99d1746c43a.gif)
